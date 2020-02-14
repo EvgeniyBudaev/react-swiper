@@ -1,4 +1,4 @@
-## React Swiper Slider Carousel Scroll
+## React Swiper 3D Cube Slider 
 
 ![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme1.jpg)
 ![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme2.jpg)
