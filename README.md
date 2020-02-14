@@ -1,9 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme1.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme2.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme3.jpg)
 
-## Available Scripts
+
+## React Swiper Slider Carousel Scroll
 
 In the project directory, you can run:
-
+### `npm install`
+### `npm install node-sass`
+### `npm install --save react-id-swiper@latest swiper@latest`
 ### `npm start`
 
 Runs the app in the development mode.<br />
