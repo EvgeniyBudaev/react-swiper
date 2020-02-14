@@ -1,9 +1,10 @@
+## React Swiper Slider Carousel Scroll
+
 ![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme1.jpg)
 ![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme2.jpg)
 ![Image alt](https://github.com/EvgeniyBudaev/react-swiper/raw/master/public/images/readme3.jpg)
 
-
-## React Swiper Slider Carousel Scroll
+https://still-journey-25167.herokuapp.com/
 
 In the project directory, you can run:
 ### `npm install`
